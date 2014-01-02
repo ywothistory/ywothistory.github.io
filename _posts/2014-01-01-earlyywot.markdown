@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Early YWOT (8.4.09 - 9.23.09)
-date: 2014-01-01 00:00:00
 categories: timeline
 ---
 
