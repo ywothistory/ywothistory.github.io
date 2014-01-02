@@ -4,11 +4,12 @@ title: YWOT History
 ---
 
 <div id="home">
-  <h1>What in god's name is this?</h1>
+  <h2>What in god's name is this?</h2>
   <p>This, my dear fellow, is the History of YWOT, as chronicled by a multitude of people and personalities.<br />We hope you enjoy this very very very much. Or, at least, a little bit.</p>
+	<h1>Timeline:</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% for post in category.timeline %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
