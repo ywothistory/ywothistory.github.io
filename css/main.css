@@ -143,7 +143,6 @@ a:visited { color: #a0a; }
 	margin-top: -3em;
 	vertical-align: top;
 	display: inline-block;
-	overflow-y: scroll;
 }
 
 .post pre {
