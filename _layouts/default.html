@@ -18,15 +18,23 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">Welcome</a>
+            <a class="extra" href="{{ page.url }}">{{ page.title }}</a>
           </div>
-
+					<div class="menu">
+					<h1>Timeline:</h1>
+					{% for post in site.categories["timeline"] %}
+						<a href="{{ post.url }}"><p>{{ post.title }}</p></a>
+					{% endfor %}
+					<h1>Events:</h1>
+					{% for post in site.categories["event"] %}
+						<a href="{{ post.url }}"><p>{{ post.title }}</p></a>
+					{% endfor %}
+					</div>
           {{ content }}
-
           <div class="footer">
             <div class="contact">
               <p>
-                Brought to you by Ywotwiki/Randomguy, izo, and colibri.
+                Brought to you by YwotWiki/Randomguy, colibri, and izo.
               </p>
             </div>
           </div>
