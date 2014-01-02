@@ -1,3 +1,9 @@
+---
+layout: post
+title: Spam Wars (8.11.12 - 7.8.13)
+categories: timeline
+---
+
 #Your World of Text: Spam Wars
 The **spam wars** were started when spamming groups formed around the end of the Vsauce era. Lasting from August 11th, 2012 to July 8th 2013, this time period was marked by the attacks of spam groups on the frontpage (in particular Mothereffers), against various YWOT pages, and against each other.
 
