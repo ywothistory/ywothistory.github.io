@@ -10,8 +10,10 @@ title: YWOT History
 	<p>After being a member of the site for a month, ~YwotWiki/Randomguy_ wanted to make learning about YWOT and the history therof easier for everybody. To do this, he made /ywotwiki (now <a href="http://yourworldoftext.com/~ywotwiki">/~YwotWiki</a>, and also founded <a href="http://www.yourworldoftext.com/~randomguy_/historyofywot">/historyofywot</a>. These pages are an extention of ~YwotWiki/Randomguy_'s "wiki" pages on YWOT.</p>
 	<h1>Timeline:</h1>
   <ul class="posts">
-    {% for post in site.categories.timeline.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% for posts in site.categories.timeline.post %}
+			{% for post in posts %}
+	      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
     {% endfor %}
   </ul>
 </div>
