@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pre-Vsauce (2.9.10 - 3.29.11)
+title: Vsauce Explosion (3.29.11 - 8.11.12)
 categories: timeline
 ---
 
