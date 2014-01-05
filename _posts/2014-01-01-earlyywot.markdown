@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Early YWOT (8.4.09 - 9.23.09)
+title: Early YWOT
 categories: timeline
 ---
 
-From the time from September 23rd, 2009 to when all standard features of YWOT rolled out in February 9th, 2010, the site gained momentum in its growth. Despite minor developments, however, the present-day culture of YWOT had yet to take root. No spam wars took place during this time, as spam groups coalesced some time during the Vsauce Explosion. What happened most of the time was through talk. In many ways, this era was similar to the previous era, Beta.
+From the time from September 23rd, 2009 to when all standard features of YWOT rolled out in February 9th, 2010, the site gained momentum in its growth. I guess nothing really happened during this time. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
 
-###Updates and Events
+###Updates and Events (a lot of them)
 
 - September 23rd 2009: All beta worlds are moved to [yourworldoftext.com/beta/](http://yourworldoftext.com/beta)
 - October 30th 2009: Homepage is moved to [yourworldoftext.com/frontpage/1](http://yourworldoftext.com/frontpage/1)
