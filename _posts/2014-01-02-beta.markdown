@@ -1,26 +1,30 @@
 ---
 layout: post
-title: Beta (8.4.09 - 9.23.09)
+title: YWOT Beta
 categories: timeline
 ---
 
-Your World Of Text (YWOT) once had a beta stage! This era in YWOT history ran from August 4th, 2009, through September 23th, 2009. No significant events occured during this period in YWOT history. Few users remain from this era, and most of the info is implied or acquired from Andrew's trusty [Twitter feed](https://twitter.com/yourworldoftext). Regardless we can shape a pretty good picture of what happened on YWOT, before its public release.
+Your World Of Text (YWOT) once had a beta stage! This era in YWOT history ran from August 4th, 2009, through September 23th, 2009. Most of the info from the beta era is saved from Andrew's trusty [Twitter feed](https://twitter.com/yourworldoftext). 
 
-###Culture
+###Life in Beta
 
-During the beta era, culture was primitive and undeveloped. Scripts were non-existent, made possible through an explosion of popularity later in YWOT's history. Pages had little purpose, usually for discussion or ASCII art, though the art was fairly developed, and featured ASCII and Unicode elements. The URL of the site was [beta.yourworldoftext.com](http://www.beta.yourworldoftext.com) until 9.23.09, when it was changed to redirect to [yourworldoftext.com](http://www.yourworldoftext.com).
+The URL of the site was [beta.yourworldoftext.com](http://www.beta.yourworldoftext.com) until 9.23.09 on its official release, when it was changed to redirect to [yourworldoftext.com](http://www.yourworldoftext.com).
 
-During this time, the front page had no owner box. Far fewer people knew about YWOT. The only feature available at this time was page-claiming. As time went on, further developments would arrive. However, things didn't change much, in the culture of the next era.
+Beta was pretty simple for YourWorldOfText. The only availiable ability was page claiming. The full known list of worlds from this time are at ~index's [Beta Page](http://www.yourworldoftext.com/~index/BETA) on YWOT. The users then are:
+
+ohsin, dmmcintyre3, Danielj, Barber, Ofy1993, Sponge, ninjawars, HotShot, and Dantelia.
+
+As far as I know none of these people are left today :(
 
 ###URL Naming
 
-All worlds created during the beta era are stored on the subdomain: `yourworldoftext.com/beta/[...]` For example:
+All worlds created during the beta era are found in `yourworldoftext.com/beta/[...]` For example:
 
 - [yourworldoftext.com/beta/~ohsin/Mario](http://yourworldoftext.com/beta/~ohsin/Mario)
 - [yourworldoftext.com/beta/~dmmcintyre3/macbook](http://yourworldoftext.com/beta/~dmmcintyre3/macbook)
 - [yourworldoftext.com/beta/~sponge/wyrdysm](http://yourworldoftext.com/beta/~sponge/wyrdysm)
 
-There are only a few public beta worlds currently known. To see the full list visit the link to ~index in "Further Reading".
+Though only around 20 beta worlds are now known there may be many more (I'm currently e-mailing andrew). It's possible a full list could be put together in the future.
 
 ###Updates and Events
 
@@ -31,4 +35,3 @@ There are only a few public beta worlds currently known. To see the full list vi
 
 ### Further Reading
 
-[~index's Beta Page on YWOT](http://www.yourworldoftext.com/~index/BETA)
