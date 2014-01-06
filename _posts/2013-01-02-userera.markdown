@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The ~User Era (Aug. 11 '12 - Jul. 8 '13)
+title: The ~User Era
 categories: timeline
 ---
 
