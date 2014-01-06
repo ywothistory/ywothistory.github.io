@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Pre-Vsauce (2.9.10 - 3.29.11)
+title: The Script Era
 categories: timeline
 ---
 
-Despite no major advertisements, YWOT climbed in popularity through this era. Lasting from February 9th, 2010 to March 29th, 2011 when the Vsauce video came out, the Pre-Vsauce era for YWOT was a sign of things to come.
+YWOT climbed in popularity through the **Script Era**. Lasting from February 9th, 2010 to March 29th, 2011 when the Vsauce video came out, this era for YWOT was a sign of things to come.
 
-Spreading through internet blogs, forums, and discussion boards (i.e. 4chan), the website gained many new members. Total membership increased considerably, though it would later rise steeply after the video's release. Many newcomers could operate javascript, allowing them access into more intricate workings of YWOT. 
+Many people arrived here from 4chan, contributing to the site. One of the ways was through javascript.
 
 [![Example of what a script can do! Coordinate and URL links are used for coloring.](/images/what_a_script_can_do.png)](http://www.youtube.com/watch?v=T0b7rU554S8)  
 Example of what a script can do! Coordinate and URL links are used for coloring.
 
-Among the members of YWOT was [Fang](http://www.yourworldoftext.com/~mcdowell/fang), his scripts could modify various elements of the site. It seems many scripts were in development by different people during this era, laying the foundations for the ability to change more text, for better or worse...
+Among the members of YWOT was [Fang](http://www.yourworldoftext.com/~mcdowell/fang), his scripts could modify various elements of the site. It seems many scripts were in development by different people during this era, which would in the future possibly allow mass spamming...
 
-Very early versions of pasting scripts exist, like the YWMS, or YourWorld Mass Sender. Able to paste and send large amounts of text, it was a precursor for later scripts to come. Check it out on [/~Lynxy/YWMS](http://www.yourworldoftext.com/~Lynxy/YWMS). It is recommended that you don't download it however due to the possibility it could track you.
+Very early versions of pasting scripts exist, like the YWMS, or YourWorld Mass Sender. Able to paste and send large amounts of text, it is almost like script now, it may be even more powerful. Check it out on [/~Lynxy/YWMS](http://www.yourworldoftext.com/~Lynxy/YWMS). DON'T DOWNLOAD IT; There is a chance it could track you.
 
-The following era, the 1st Explosion, yielded an entirely new set of scripts and new ideas produced by the visitors from Vsauce. Many things would come about as a result of the rapid growth in membership.
+The following era, the Vsauce Era, yielded an entirely new set of scripts and new ideas produced by the visitors from Vsauce. Many things would be as a result of the rapid growth in membership.
