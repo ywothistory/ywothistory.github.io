@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spam Wars (8.11.12 - 7.8.13)
+title: Spam Wars
 categories: timeline
 ---
 
