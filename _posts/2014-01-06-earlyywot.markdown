@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Early YWOT
+title: Early YWOT (2009-10)
 categories: timeline
 ---
 
-From the time from September 23rd, 2009 to when all standard features of YWOT rolled out in February 9th, 2010, the site gained momentum in its growth. I guess nothing really happened during this time. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
+From the time from September 23rd, 2009 to when all standard features of ywot rolled out in February 9th, 2010, the site gained momentum in its growth. No notable events occured during the Early ywot era. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
 
-###Updates and Events (a lot of them)
+###Events by Twitter Feed
 
 - September 23rd 2009: All beta worlds are moved to [yourworldoftext.com/beta/](http://yourworldoftext.com/beta)
 - October 30th 2009: Homepage is moved to [yourworldoftext.com/frontpage/1](http://yourworldoftext.com/frontpage/1)
