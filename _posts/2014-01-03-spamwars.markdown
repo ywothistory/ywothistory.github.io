@@ -26,14 +26,14 @@ Spam was constant on YWOT, and would become more common as time passed. If you w
 ###Era of Change
 December 21st Marked the first shutdown of the YWOT frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. Also because it occurred close to the holidays it was called the Holiday Lockdown as well.
 
-![Lockdown image](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/makeitmemberspam.jpg)
+![Lockdown picture](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
 
 The lockdown was ended on the 23rd of December. The member-only periods then and later on March 22nd would provide a base for future movements that supported a member-only frontpage.
 
 ###Member-Only Reforms
 Soon after the lockdown JA, an active member of YWOT and co-founder of Silent Nation Clan, expressed his support for a members-only front page. His main page he created was [/MAKEITMEMBER](http://yourworldoftext.com/makeitmember). BlackInk, a spammer from the spam wars, also expressed his support on his page [/BlackInkDeparture](http://yourworldoftext.com/BlackInkDeparture). A user named Randomguy_ (Created ~YwotWiki) also joined JA's campaign, anonymously in hopes of bettering YWOT. Despite attempts at contacting Andrew, these changes never made it through.
 
-![Spam showing dislike of Makeitmember](img/makeitmemberspam.jpg)
+![Spam showing dislike of Makeitmember](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/makeitmemberspam.jpg)
 
 ###A Period of Silence
 After these events, JA departed, on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world ~index.
