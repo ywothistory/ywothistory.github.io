@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Early YWOT (2009-10)
+title: Early YWOT
 categories: timeline
 ---
 
-From the time from September 23rd, 2009 to when all standard features of ywot rolled out in February 9th, 2010, the site gained momentum in its growth. No notable events occured during the Early ywot era. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
+From the time from September 23rd, 2009 to when all standard features of ywot rolled out in February 9th, 2010, the site gained momentum in its growth. I guess nothing happened during this era. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
 
 ###Events by Twitter Feed
 
