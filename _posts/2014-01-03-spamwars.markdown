@@ -26,7 +26,7 @@ Spam was constant on YWOT, and would become more common as time passed. If you w
 ###Era of Change
 December 21st Marked the first shutdown of the YWOT frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. Also because it occurred close to the holidays it was called the Holiday Lockdown as well.
 
-![Lockdown image](img/Mar 22 2013 The YWOT Lockdown II.jpg)
+![Lockdown image](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/makeitmemberspam.jpg)
 
 The lockdown was ended on the 23rd of December. The member-only periods then and later on March 22nd would provide a base for future movements that supported a member-only frontpage.
 
