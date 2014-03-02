@@ -1,10 +1,12 @@
 ---
 layout: post
-title: YWOT Beta (2009)
+title: YWOT Beta
 categories: timeline
 ---
 
-Ywot's beta stage was for the most part dominated by a lack of membership and few of the features that are currently available being present. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time.
+YWOT **Beta** was the stage of YWOT history when the site was founded by Andrew Badr. Like many other popular websites such as Minecraft or Gmail, YWOT's beta stage was defined by its testing and improvement. 
+
+stage was for the most part dominated by a lack of membership and few of the features that are currently available being present. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time.
 
 This era in ywot history ran from August 4th, 2009, when ywot was launched, through September 23th, 2009 when the frontpage was transferred to the new domain. The URL for ywot during these times was [beta.yourworldoftext.com](http://www.beta.yourworldoftext.com). A lot of the info from the beta era is saved from the ywot [feed on Twitter](https://twitter.com/yourworldoftext). 
 
