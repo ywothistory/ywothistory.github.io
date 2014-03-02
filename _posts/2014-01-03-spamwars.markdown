@@ -6,6 +6,8 @@ categories: timeline
 
 The spam wars began after spam groups formed around the end of the Vsauce era. Lasting from August 11th, 2012 to July 8th 2013, this time period was marked by the attacks of spam groups on the frontpage (in particular Mothereffers), against various YWOT pages, and on occasion in wars against other groups.
 
+The **Spam Wars** era began on *August 11th, 2012* and ended on *July 8th, 2013*. The era was dominated by development of mass spamming javascripts, 
+
 In addition the influence of the art and culture of YWOT grew, probably the fastest in all its history. A notable monument was the YWOT "Ladder to Heaven", as well as the ascii city located near west of the center area which was in the end destroyed by newcomers to the site.
 
 Important events include
