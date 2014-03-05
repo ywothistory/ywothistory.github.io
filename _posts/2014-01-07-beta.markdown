@@ -8,7 +8,11 @@ YWOT **Beta** was the stage of YWOT history when the site was founded by Andrew 
 
 Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time. The URL for beta during this time (now redirects to the main site) was [beta.yourworldoftext.com](http://www.beta.yourworldoftext.com).
 
-###YWOT’s Beta Stage
+`August 4th 2009: The beginning of ywot`
+`August 27th 2009: Accounts are now active via [Beta.yourworldoftext.com](http://www.beta.yourworldoftext.com)`
+`September 22nd 2009: Homepage is disabled for public writing`
+
+##Life in Beta
 
 Beta was pretty simple for Your World Of Text. The only availiable ability was page claiming. The full known list of worlds from this time are at ~index's [Beta Page](http://www.yourworldoftext.com/~index/BETA) on ywot. The users then were ohsin, dmmcintyre3, Danielj, Barber, Ofy1993, Sponge, ninjawars, HotShot, and Dantelia. None of these people are still on the site today as far as it is known.
 
@@ -21,14 +25,4 @@ All worlds created during the beta era are found in `yourworldoftext.com/beta/[.
 - [yourworldoftext.com/beta/~sponge/wyrdysm](http://yourworldoftext.com/beta/~sponge/wyrdysm)
 
 Though only around 20 beta worlds are now known there may be many more in existence. It's possible a full list could be put together in the future.
-
-###List of Site Changes
-
-August 4th 2009: The beginning of ywot
-August 27th 2009: Accounts are now active via [Beta.yourworldoftext.com](http://www.beta.yourworldoftext.com)
-September 22nd 2009: Homepage is disabled for public writing
-
-
-### Further Reading
-
 
