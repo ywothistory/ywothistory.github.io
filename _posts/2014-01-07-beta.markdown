@@ -4,13 +4,11 @@ title: YWOT Beta
 categories: timeline
 ---
 
-YWOT **Beta** was the stage of YWOT history when the site was founded by Andrew Badr. Like many other popular websites such as Minecraft or Gmail, YWOT's beta stage was defined by its testing and improvement. 
+YWOT **Beta** was the stage of YWOT history when the site was founded by Andrew Badr. Beta started on *August 4th, 2009*, and ended on *September 23rd, 2009*, when it was superceded by YWOT. Like many other popular websites such as Minecraft or Gmail, YWOT's beta stage was defined by its testing and improvement.
 
-stage was for the most part dominated by a lack of membership and few of the features that are currently available being present. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time.
+Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time. The URL for beta during this time (now redirects to the main site) was [beta.yourworldoftext.com](http://www.beta.yourworldoftext.com).
 
-This era in ywot history ran from August 4th, 2009, when ywot was launched, through September 23th, 2009 when the frontpage was transferred to the new domain. The URL for ywot during these times was [beta.yourworldoftext.com](http://www.beta.yourworldoftext.com). A lot of the info from the beta era is saved from the ywot [feed on Twitter](https://twitter.com/yourworldoftext). 
-
-###Life in Beta
+###YWOT’s Beta Stage
 
 Beta was pretty simple for Your World Of Text. The only availiable ability was page claiming. The full known list of worlds from this time are at ~index's [Beta Page](http://www.yourworldoftext.com/~index/BETA) on ywot. The users then were ohsin, dmmcintyre3, Danielj, Barber, Ofy1993, Sponge, ninjawars, HotShot, and Dantelia. None of these people are still on the site today as far as it is known.
 
@@ -24,11 +22,13 @@ All worlds created during the beta era are found in `yourworldoftext.com/beta/[.
 
 Though only around 20 beta worlds are now known there may be many more in existence. It's possible a full list could be put together in the future.
 
-###Events by Twitter Feed
+###List of Site Changes
 
-* August 4th 2009: The beginning of ywot
-* August 27th 2009: Accounts are now active via [Beta.yourworldoftext.com](http://www.beta.yourworldoftext.com)
-* September 22nd 2009: Homepage is disabled for public writing
+August 4th 2009: The beginning of ywot
+August 27th 2009: Accounts are now active via [Beta.yourworldoftext.com](http://www.beta.yourworldoftext.com)
+September 22nd 2009: Homepage is disabled for public writing
 
 
 ### Further Reading
+
+
