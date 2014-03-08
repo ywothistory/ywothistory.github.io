@@ -4,9 +4,15 @@ title: The ~User Era
 categories: timeline
 ---
 
-The **~User Era** is a name coined for the time period including the late June update to the site’s URL system. The most important feature would be the username of a world's owner being visible. This period in YWOT history began July 8th, 2013 and continues to the present day.
+The **~User Era** is short for the "~Username Era", the time in YWOT's history following the updating complicating the URL system. This time period began on *July 8th, 2013* and lasted until *January 1st, 2014*.
 
-The update was taken controversially, with opponents stating it would cause YWOT to be too complicated. Andrew however pushed for the update to be released, regardless. The official release date was on July 8th, 2013, the start of this time period.
+###Features of the update
+
+This update, unlike previous updates, featured a change to YWOT's URL naming system. All worlds would now have the names of their creators visible, meaning that there was complete transparency. This also led to confusion due to an absolute fragmenting of world names, as shown below:
+
+![Diagram of YWOT world types, before and after update. darn it izo.](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/worldupdate.png)
+
+The update was taken controversially, with opponents stating it would cause YWOT to be too complicated. Andrew however pushed for the update to be released, regardless. The official release date was on July 8th, 2013, the start of this time period. Development was assisted by [Employee of the Month](youtube.com), Colibri.
 
 InfraRaven, though an opponent of this update, created ~index, which would be the predecessor to /Comprehensive, YWOt’s biggest world cataloguing project.
 
@@ -20,4 +26,3 @@ Later on, the distribution of scripts led to lag and confusion on the frontpage,
 - Lol007 Script Leaks
 - YWOT Civil War
 - The Nov. 2013 Owner-Box Removal
-- Some future event??
