@@ -1,10 +1,10 @@
 ---
 layout: post
-title: YWOT Beta
+title: Beta
 categories: timeline
 ---
 
-YWOT **Beta** was the stage of YWOT history when the site was founded by Andrew Badr. Beta started on *August 4th, 2009*, and ended on *September 23rd, 2009*, when it was superceded by YWOT. Like many other popular websites such as Minecraft or Gmail, YWOT's beta stage was defined by its testing and improvement.
+**Beta** was the stage of YWOT history when the site was founded by Andrew Badr. YWOT Beta began on *August 4th, 2009*, and ended on *September 23rd, 2009*, when it was superceded by YWOT. Like many other popular websites such as Minecraft or Gmail, YWOT's beta stage was defined by its testing and improvement.
 
 Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time. The URL for beta during this time (now redirects to the main site) was [beta.yourworldoftext.com](http://www.beta.yourworldoftext.com).
 
