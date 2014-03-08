@@ -1,10 +1,9 @@
 ---
 layout: post
-title: The ~User Era
+title: A complicated update
 categories: timeline
 ---
-
-The **~User Era** is short for the "~Username Era", the time in YWOT's history following the updating complicating the URL system. This time period began on *July 8th, 2013* and lasted until *January 1st, 2014*.
+On the 8th of July, 2013, an update to YWOT's URL system was launched. Many were opposed to the update, some favored it, and some people tried to inform others about how the update would take hold. Regardless the update was pushed by [Andrew](ywothistory.tk/andrew) and the website changed once again. This is how the site is organized as of current.
 
 ###Features of the update
 
