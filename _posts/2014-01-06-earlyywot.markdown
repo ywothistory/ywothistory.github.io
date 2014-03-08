@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early YWOT
+title: YWOT is launched!
 categories: timeline
 ---
 
