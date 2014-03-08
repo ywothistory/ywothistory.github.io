@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spam Wars
+title: A spam mafia forms
 categories: timeline
 ---
 
