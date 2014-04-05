@@ -1,46 +1,43 @@
 ---
 layout: post
-title: A spam mafia forms
+title: Spamming groups form
 categories: timeline
 ---
 
-The spam wars began after spam groups formed around the end of the Vsauce era. Lasting from August 11th, 2012 to July 8th 2013, this time period was marked by the attacks of spam groups on the frontpage (in particular Mothereffers), against various YWOT pages, and on occasion in wars against other groups.
+After the take over of Vsauce viewers, spam on YWOT became a real problem. Because scripts and members were readily available, a "spam mafia" originated on YWOT. One of these such spamming groups was Mothereffers.
 
-The **Spam Wars** era began on *August 11th, 2012* and ended on *July 8th, 2013*. The era was dominated by development of mass spamming javascripts, 
+Little is known about Mothereffers because their page has been made private [/Mothereffers](http://www.yourworldoftext.com/mothereffers). What is known is that they were notorious, and most likely ousted by Andrew for harassment of a 9 year old girl on the website.
 
 In addition the influence of the art and culture of YWOT grew, probably the fastest in all its history. A notable monument was the YWOT "Ladder to Heaven", as well as the ascii city located near west of the center area which was in the end destroyed by newcomers to the site.
 
-Important events include
+Important events include:
 
 - The Lockdown of Christmas 2012
-- The Deathcould Spammings
+- Deathcloud
 - Departure of BlackInk
 - Departure of JA
 - The No Owner-Box Period
-- Make it Member Campaigns
-- Formation and Destruction of Paradise/Nirvana
-- The January 2013 4chan Influx
+- The Make it Member Campaigns
+- Paradise and Nirvahna
 
 ###Era of Spam
 Spam was constant by this era on YWOT, and the amount would only increase as time passed. As scripts became more widespread whether through distribution or from creation, spamming groups formed which often spammed ywot pages by request. [Deathcloud](http://www.yourworldoftext.com/deathcloud) was a notable one that then became the target of spam because of the wide range of its attacks.
 
-Though organizations became involved in spamming, so did many individuals. Users included Yen, BlackInk, and Whitemouse, who eventually formed alliances, complicating the playing field. YWOT eventually became divided into two sides, people who spammed and then opposers to the spam. It wasn't until late January that the tensions finally eased. Much of the impact of the spam wars became hidden in the background. Spam, however, would continue to impact YWOT for a very long time.
+Though organizations became involved in spamming, so did many individuals. Users included Yen, BlackInk, and Whitemouse, who eventually formed alliances, complicating the playing field. YWOT eventually became divided into two sides, people who spammed and then opposers to the spam. It wasn't until late January that the tensions finally eased. Much of the impact of the spam wars became hidden in the background. Spam, however, would continue to impact YWOT for a very long time. Indeed the spam wars were a period of intense scripted warfare.
 
 ###Era of Change
-December 21st marked the first shutdown of the YWOT frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. In addition it was giving the name the holiday lockdown because of its occurence near the holidays.
+December 21st marked the first Lockdown of the frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. In addition it was giving the name the holiday lockdown because of its occurence near the holidays.
 
 ![Lockdown picture](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
 
-The lockdown was ended on the 23rd of December. The member-only periods then and later on March 22nd would provide a base for future movements that acted for support of a member-only frontpage.
+The lockdown was ended on the 23rd of December.
 
-###A Member-Only YWOT
+###Support Grows for A Member-Only YWOT
 
 
-Soon after the lockdown, JA, an active member of YWOT and co-founder of Silent Nation Clan, expressed his support for a members-only front page. His main page he created was [/MAKEITMEMBER](http://yourworldoftext.com/makeitmember). BlackInk, a spammer from the spam wars, also expressed his support on his page [/BlackInkDeparture](http://yourworldoftext.com/BlackInkDeparture). A user named Randomguy_ (Created ~YwotWiki) also joined JA's campaign, anonymously in hopes of bettering YWOT. Despite attempts at contacting Andrew, these changes never made it through.
+Following the events leading up to and after the lockdown, JA, an active member of YWOT and co-founder of Silent Nation Clan, expressed his support for a members-only front page. His main page he created was [/MAKEITMEMBER](http://yourworldoftext.com/makeitmember). BlackInk, a spammer from the spam wars, also expressed his support on his page [/BlackInkDeparture](http://yourworldoftext.com/BlackInkDeparture). Randomguy_ (Created ~YwotWiki) also joined JA's campaign, with his own (then Anon) page [/YwotForProgress](http://yourworldoftext.com/ywotforprogress). These protests mostly occured on the user level and never made it past to Andrew.
 
 ![Spam showing dislike of Makeitmember](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/makeitmemberspam.jpg)
 
-###A Period of Silence
-After these events, JA departed, on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world ~index.
-
-Apologies to TheRussian for writing a heavily biased article
+###JA Departs YWOT
+After these events, JA departed, on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Though the results of the spam war was seen as a stalemate, spam would continue to overtake the website, in all its forms. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world ~index.
