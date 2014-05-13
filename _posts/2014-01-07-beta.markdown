@@ -9,5 +9,3 @@ Your World Of Text, called YWOT for short, is generally accepted to have started
 Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time.
 
 Little is left or known of this long gone era. All /beta/ URLs are available at [http://www.yourworldoftext.com/~index/BETA](http://www.yourworldoftext.com/~index/BETA)
-
-Help catalogue new beta worlds at [YwotHERP](http://www.yourworldoftext.com/~ywotherp)
