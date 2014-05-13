@@ -1,0 +1,19 @@
+---
+layout: post
+title: How this history is organized
+categories: timeline
+---
+
+###Welcome...
+
+...to the more technical version of YWOT's history. Here you will find most of the major events having taken place in the website's history. A lot of the more technical and "inside" aspects of the history will be detailed in this section, so if you're not a member or are a new member you may want to stick to the simple version of the history, or you could read this for entertainment. Many of the names and events should be linked to their corresponding articles, which should help make understanding these posts a bit easier.
+
+Basically I have divided the entire existence of the website into several time periods, or "eras" to make it easier to describe events:
+
+- The Beta Era
+- Early YWOT
+- Scripts Era
+- Spam Wars
+- The User Era
+- The Lol007 Era
+
