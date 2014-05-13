@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Christmas 2012 Lockdown
-categories: events
+categories: event
 ---
 
 ![The Christmas 2012 Lockdown](http://i.imgur.com/hfI2cM5.png)
