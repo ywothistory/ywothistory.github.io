@@ -1,0 +1,52 @@
+---
+layout: post
+title: How this history is organized
+categories: timeline
+---
+
+###Welcome...
+
+...to the more technical version of YWOT's (Your World Of Text) history. Here you will find most of the major events having taken place in the website's history. A lot of the more technical and "inside" aspects of the history will be detailed in this section.
+
+If you're not a member or are a new member you may want to stick to the simple version of the history, or you could read this for entertainment. Many of the names and events should be linked to their corresponding articles, which should help make understanding these posts a bit easier.
+
+Basically I have divided the entire existence of the website into several time periods, or "eras" to make it easier to describe events:
+
+- The Beta Era
+- Early YWOT
+- Scripts Era
+- Spam Wars
+- The User Era
+
+Here is a brief summary of each:
+
+####The Beta Era
+
+This era lasted from Aug. 2 2009 to Sep. 22 2009
+
+During this time YWOT was in its "beta" stage. No current features of YWOT were in place, and only world claiming was available.
+
+####Early YWOT
+
+This era lasted from Sep. 23 2009 to Feb. 9 2010
+
+This was the time period when coordinate and URL linking, etc. came out.
+
+####Scripts Era
+
+This era lasted from Feb. 10 2010 to Mar. 29 2011
+
+Several primitive scripts were produced during this time.
+
+####Spam Wars
+
+This era lasted from Mar. 30 2011 to Jul. 8 2013
+
+Much of known YWOT history happened during this time. This was when the first spamming scripts came into play, when spamming groups formed and broke apart, and when most YWOT members who are around today found out YWOT. This is the "history" of YWOT that we know of today.
+
+####The User Era
+
+This era lasts from Jul. 9 2013 to Today
+
+This was the era when the famous script leaker Lol007 leaked pasting scripts, but more importantly when the whole 
+URL system of the site was changed.
