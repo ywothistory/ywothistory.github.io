@@ -4,13 +4,10 @@ title: The Beta Era
 categories: timeline
 ---
 
-Your World Of Text is generally accepted to have been created on August 2nd, 2009 according to a website cataloguing site.
+Your World Of Text is generally accepted to have been created on August 2nd, 2009 according to [rankwe.com](http://rankwe.com/siteinfo/yourworldoftext.com). The starting date is marked as August 4th, 2009, according to [Google Search](http://goo.gl/3q4o9I) results.
 
-Prior to that however, the starting date was accepted to have been August 4th, 2009, according to [Google Search](http://goo.gl/3q4o9I) results, and research conducted by site member [Randomguy_](http://www.google.com).
 
-Even before it was unknown what the actual starting date was, and it was presumed to have been the end of August.
-
-During this time the website was in its beta era. Beta testing ended around September 22nd 2009 whereupon all beta worlds were moved to "yourworldoftext.com/beta/". The [URL](http://simple.wikipedia.org/wiki/Url) during the beta era was [beta.yourworldoftext.com](http://beta.yourworldoftext.com). This now [redirects](http://en.wikipedia.org/wiki/URL_redirection) to the main YWOT homepage.
+On September 22nd 2009 whereupon all beta worlds were moved to "yourworldoftext.com/beta/". The [URL](http://simple.wikipedia.org/wiki/Url) during the beta era was [beta.yourworldoftext.com](http://beta.yourworldoftext.com). This now redirects to the main YWOT homepage.
 
 Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time.
 
