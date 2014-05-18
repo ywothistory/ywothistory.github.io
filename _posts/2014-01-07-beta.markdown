@@ -19,5 +19,5 @@ All beta URL's can be found on [~index](http://www.yourworldoftext.com/~index/be
 
 ##Citations
 
-(1) http://rankwe.com/siteinfo/yourworldoftext.com
-(2) http://www.yourworldoftext.com/~randomguy_/historyofywot
+- (1) http://rankwe.com/siteinfo/yourworldoftext.com
+- (2) http://www.yourworldoftext.com/~randomguy_/historyofywot
