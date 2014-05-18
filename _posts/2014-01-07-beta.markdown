@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YWOT: Origins
+title: The Beta Era
 categories: timeline
 ---
 
