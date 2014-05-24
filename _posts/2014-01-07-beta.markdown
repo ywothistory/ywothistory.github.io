@@ -6,18 +6,8 @@ categories: timeline
 
 ##The Beta Era
 
-Your World Of Text was registered as a domain on August 2nd, 2009 [(1)](http://rankwe.com/siteinfo/yourworldoftext.com). On August 25th the site was published onto Chrome Experiments [(3)](http://www.chromeexperiments.com/detail/your-world-of-text/?f=).
+Your World Of Text was registered as a domain on August 2nd, 2009. On August 25th the site was published onto Chrome Experiments.
 
-On September 22nd 2009 all beta worlds were moved to "yourworldoftext.com/beta/". The [URL](http://simple.wikipedia.org/wiki/Url) during the beta era was [beta.yourworldoftext.com](http://beta.yourworldoftext.com)[(2)](http://www.yourworldoftext.com/~randomguy_/historyofywot).
+On September 22nd 2009 all beta worlds were moved to "yourworldoftext.com/beta/". The URL during the beta era was [beta.yourworldoftext.com](http://beta.yourworldoftext.com).
 
 Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time.
-
-##Beta URL's
-
-All beta URL's can be found on [~index](http://www.yourworldoftext.com/~index/beta).
-
-
-##Citations
-
-- (1) http://rankwe.com/siteinfo/yourworldoftext.com
-- (2) http://www.yourworldoftext.com/~randomguy_/historyofywot
