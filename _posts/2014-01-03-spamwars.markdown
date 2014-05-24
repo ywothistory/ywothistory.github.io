@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spam Wars
+title: The Spam Era
 categories: timeline
 ---
 
