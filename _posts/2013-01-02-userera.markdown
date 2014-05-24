@@ -33,3 +33,9 @@ Spam was, and continues to be, a major problem for YWOT. Originally the site was
 ###Script Leaks
 
 Later on, the distribution of scripts led to lag and confusion on the frontpage, ending in a long fought stalemate between the script leaker and opposers.
+
+###~index is Updated
+
+Index, formerly /comprehensive, for a long amount of time had difficulty adapting to the new URL system. Finally, as a means of simplifying things, Randomguy_ enacted the sorting by username the page needed. In addition the page's layout was also simplified and cleaned. This update was referred to as "Index 2.0"
+
+![new index](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/newindex.jpg)
