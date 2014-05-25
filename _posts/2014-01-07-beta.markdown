@@ -8,11 +8,15 @@ categories: timeline
 
 Your World Of Text was registered as a domain on August 2nd, 2009. On August 25th the site was published onto Chrome Experiments. During the beta stage YWOT ran on Google's App Engine.
 
+Despite the earliness in age, pasting scripts had already been deployed. Pasting scripts or YWOT Weapons of Mass Destruction (YWMD's) have been in use most likely throughout the site's entire history.
+
 On September 22nd 2009 all beta worlds were moved to "yourworldoftext.com/beta/". The URL during the beta era was [beta.yourworldoftext.com](http://beta.yourworldoftext.com).
 
-Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time.
+Few features were available during beta. Updates for URL links, Coordinate linking, and adding color to user pages would come at a later time. Extra features like links and protected tiles were added "at great expense and at the last minute".
 
 ##Sources
 
 - http://www.andrewbadr.com/yourworld/
 - http://www.yourworldoftext.com/~randomguy_/historyofywot
+- http://www.yourworldoftext.com/frontpage/1
+- https://github.com/reverie/yourworldoftext
