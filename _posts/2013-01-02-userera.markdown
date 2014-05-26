@@ -3,26 +3,18 @@ layout: post
 title: The User Era
 categories: timeline
 ---
+
+![Picture of ~Help](http://i.imgur.com/OajHqiJ.png)
+
+`An example of how YWOT users took advantage of the update`
+
 On July 8th 2013, the YWOT URL system was changed in an update, among many things. During this era, YWOT was updated, spam continued to be a problem, and scripts were leaked by a user of the name Lol007.
 
-###The Update
+###For Better or worse
 
-This update, unlike previous updates, featured a change to YWOT's URL naming system. All worlds would now have the names of their creators visible, meaning that there was complete transparency.
+This update, unlike previous updates, featured a change to YWOT's URL naming system. All worlds would now have the names of their creators visible.
 
 The update was taken controversially, with opponents stating it would cause YWOT to be too complicated. Andrew however pushed for the update to be released, regardless. The official release date was on July 8th, 2013. Development was assisted by "Employee of the Month", Colibri.
-
-Updates would change the URL system as follows:
-
-- All claimed worlds would have usernames visible
-- All users would get the world of their own username
-- Anyone could claim any world (under their name)
-
-For example...
-
-- Before the update the only world type would be /worldname
-- After the update, world types might include /~username, /~username/worldname, and /worldname
-
-Due to these changes all worlds containing just a slash "/" were available. Because their names overlapped with claimed worlds, these pages automatically redirected to the user-claimed ones. This redirection ended on April 11th.
 
 InfraRaven, though an opponent of this update, created ~index, which would be the predecessor to /Comprehensive, YWOT’s biggest world cataloguing project.
 
