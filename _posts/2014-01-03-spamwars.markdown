@@ -29,7 +29,7 @@ Important events include:
 - Paradise and Nirvahna
 
 ###Era of Spam
-![a](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/divider.jpg)
+----------
 
 Spam on the frontpage was constant by this era on YWOT, and the amount would only increase as time passed. As scripts became more widespread whether through distribution or from creation, spamming groups formed which often spammed ywot pages by request. [Deathcloud](http://www.yourworldoftext.com/deathcloud) was a notable one that then became the target of spam because of the wide range of its attacks.
 
