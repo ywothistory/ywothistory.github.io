@@ -33,6 +33,8 @@ Spam on the frontpage was constant by this era on YWOT, and the amount would onl
 
 ####The Deathcloud War (Jan. 2013)
 
+*Main Article: [The Deathcloud War](http://ywothistory.tk/event/deathcloudwar.html)*
+
 Deathcloud launched spamming attacks on various pages, asides from the frontpage. Due to its attack on [Silent Nation Clan](http://www.yourworldoftext.com/~sedrys/SilentNationClan), they became an enemy of InfraRaven, who then sided with JA to produce /DeathCloudFails. The icon was a unicode whale with the word "FAIL" written on it, called the "Fail Whale".
 
 ![The fail whale](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/failwhale.jpg)
