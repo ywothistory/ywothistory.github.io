@@ -8,7 +8,7 @@ categories: timeline
 
 `A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)`
 
-Soon after the Vsauce Explosion, spam on YWOT became a real problem. Due to the fact that scripts were readily available, a "spam mafia" originated on YWOT. One of these such spamming groups was Mothereffers.
+Soon after the [Vsauce Explosion](http://ywothistory.tk/event/vsauceexplosion), spam on YWOT became a real problem. Due to the fact that scripts were readily available, a "spam mafia" originated on YWOT. One of these such spamming groups was Mothereffers.
 
 [insert blurb about mothereffers here]
 
@@ -31,7 +31,17 @@ Important events include:
 ###Era of Spam
 ----------
 
+####The First YWOT Lockdown
+
 Spam on the frontpage was constant by this era on YWOT, and the amount would only increase as time passed. As scripts became more widespread whether through distribution or from creation, spamming groups formed which often spammed ywot pages by request. [Deathcloud](http://www.yourworldoftext.com/deathcloud) was a notable one that then became the target of spam because of the wide range of its attacks.
+
+*Main Article: [The Christmas 2012 Lockdown](http://ywothistory.tk/event/christmas2012lockdown.html)*
+
+December 21st marked the first Lockdown of the frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. In addition it was giving the name the holiday lockdown because of its occurence near the holidays.
+
+![Lockdown picture](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
+
+The lockdown was ended on the 23rd of December.
 
 ####The Deathcloud War (Jan. 2013)
 
@@ -52,11 +62,7 @@ Deathcloud launched spamming attacks on various pages, asides from the frontpage
 Though organizations became involved in spamming, so did many individuals. Users included Yen, BlackInk, and Whitemouse, who eventually formed alliances, complicating the playing field. YWOT eventually became divided into two sides, people who spammed and then opposers to the spam. It wasn't until late January that the tensions finally eased. Much of the impact of the spam wars became hidden in the background. Spam, however, would continue to impact YWOT for a very long time. Indeed the spam wars were a period of intense scripted warfare.
 
 ###Era of Change
-December 21st marked the first Lockdown of the frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. In addition it was giving the name the holiday lockdown because of its occurence near the holidays.
-
-![Lockdown picture](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
-
-The lockdown was ended on the 23rd of December.
+-----------------
 
 ###Support Grows for A Member-Only YWOT
 
