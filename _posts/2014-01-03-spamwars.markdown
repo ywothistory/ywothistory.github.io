@@ -5,7 +5,6 @@ categories: timeline
 ---
 
 ![A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/the_blackout.jpg)
-*A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)*
 
 Soon after the [Vsauce Explosion](http://ywothistory.tk/event/vsauceexplosion), spam on YWOT became a real problem. Due to the fact that scripts were readily available, a "spam mafia" originated on YWOT. One of these such spamming groups was Mothereffers.
 
@@ -30,19 +29,15 @@ December 21st marked the first Lockdown of the frontpage. Following large quanti
 
 ![An image of the front page during a lockdown](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
 
-*An image of the front page during a lockdown*
-
 The lockdown was ended on the 23rd of December.
 
 ####The Deathcloud War (Jan. 2013)
 
 *Main Article: [The Deathcloud War](http://ywothistory.tk/event/deathcloudwar.html)*
 
-Deathcloud launched spamming attacks on various pages, asides from the frontpage. Due to its attack on [Silent Nation Clan](http://www.yourworldoftext.com/~sedrys/SilentNationClan), they became an enemy of InfraRaven, who spammed them on the behalf of JA and produced /DeathCloudFails. The fail whale became an icon in the Deathcloud War.
+Deathcloud launched spamming attacks on various pages, asides from the frontpage. Due to its attack on [Silent Nation Clan](http://www.yourworldoftext.com/~sedrys/SilentNationClan), they became an enemy of InfraRaven, who spammed them on the behalf of JA and produced /DeathCloudFails. The fail whale (image below) became an icon in the Deathcloud War.
 
 ![The Fail Whale, an icon of the Deathcloud War](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/failwhale.jpg)
-
-*The Fail Whale, an icon of the Deathcloud War*
 
 ####A Silent Kindom
 
@@ -65,8 +60,6 @@ Spam, during this era, even affected YWOT's most distant and famous monuments. A
 On the 24th of February, 2013 the owner box usually seen in the spawn point of the front page was removed. The event occured around 8:00 GMT that day, and thereafter YWOT was encapsulated by panic. There was a considerable amount of chaos, confusion, and spamming before things settled down the next day
 
 ![Andrew messes with people while the owner box is gone](http://i.imgur.com/8a3r9UM.png)
-
-*Andrew messes with people while the owner box is gone*
 
 The owner box would eventually return, though not until the 15th of March. The box would eventually be removed permanently.
 
