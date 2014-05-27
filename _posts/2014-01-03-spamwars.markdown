@@ -5,7 +5,6 @@ categories: timeline
 ---
 
 ![A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/the_blackout.jpg)
-
 *A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)*
 
 Soon after the [Vsauce Explosion](http://ywothistory.tk/event/vsauceexplosion), spam on YWOT became a real problem. Due to the fact that scripts were readily available, a "spam mafia" originated on YWOT. One of these such spamming groups was Mothereffers.
