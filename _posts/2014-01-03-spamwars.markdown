@@ -25,19 +25,17 @@ Spam on the frontpage was constant by this era on YWOT, and the amount would onl
 
 *Main Article: [The Christmas 2012 Lockdown](http://ywothistory.tk/event/christmas2012lockdown.html)*
 
-December 21st marked the first Lockdown of the frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. In addition it was giving the name the holiday lockdown because of its occurence near the holidays.
-
 ![An image of the front page during a lockdown](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
 
-The lockdown was ended on the 23rd of December.
+December 21st marked the first Lockdown of the frontpage. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage. The reaction was of course largely negative. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. In addition it was giving the name the holiday lockdown because of its occurence near the holidays. The lockdown was ended on the 23rd of December.
 
 ####The Deathcloud War (Jan. 2013)
 
 *Main Article: [The Deathcloud War](http://ywothistory.tk/event/deathcloudwar.html)*
 
-Deathcloud launched spamming attacks on various pages, asides from the frontpage. Due to its attack on [Silent Nation Clan](http://www.yourworldoftext.com/~sedrys/SilentNationClan), they became an enemy of InfraRaven, who spammed them on the behalf of JA and produced /DeathCloudFails. The fail whale (image below) became an icon in the Deathcloud War.
-
 ![The Fail Whale, an icon of the Deathcloud War](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/failwhale.jpg)
+
+Deathcloud launched spamming attacks on various pages, asides from the frontpage. Due to its attack on [Silent Nation Clan](http://www.yourworldoftext.com/~sedrys/SilentNationClan), they became an enemy of InfraRaven, who spammed them on the behalf of JA and produced /DeathCloudFails. The fail whale (image below) became an icon in the Deathcloud War.
 
 ####A Silent Kindom
 
@@ -82,9 +80,9 @@ Proposals included returning the front page to the Lockdown format and allowing 
 
 Some could say the campaign caused more harm than good. Ultimately, no changes relating to this were passed and the only way of advertisement used was through spamming or repeatedly posting on the front page.
 
-Additionally, some people believed spam was a part of YWOT and not a problem. Spam had only become a recent problem due to the mass distribution of scripts. And besides, spamming and erasing was part of the fun of being on the site.
-
 ![Spam showing dislike of Makeitmember](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/makeitmemberspam.jpg)
+
+Additionally, some people believed spam was a part of YWOT and not a problem. Spam had only become a recent problem due to the mass distribution of scripts. And besides, spamming and erasing was part of the fun of being on the site.
 
 ###JA Departs YWOT
 After these events, JA departed, on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Though the results of the spam war was seen as a stalemate, spam would continue to overtake the website, in all its forms. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world ~index.
