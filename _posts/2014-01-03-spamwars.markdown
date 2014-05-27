@@ -4,9 +4,9 @@ title: An Era of Spam
 categories: timeline
 ---
 
-![Spam on the front page](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/the_blackout.jpg)
+![A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/the_blackout.jpg)
 
-`A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)`
+*A blackout on the frontpage (Taken March 16, 2013 - 17:02 CST)*
 
 Soon after the [Vsauce Explosion](http://ywothistory.tk/event/vsauceexplosion), spam on YWOT became a real problem. Due to the fact that scripts were readily available, a "spam mafia" originated on YWOT. One of these such spamming groups was Mothereffers.
 
@@ -20,7 +20,7 @@ The era of spam came to an end after most famous spammers departed the site and 
 
 - Paradise and Nirvahna
 
-Era of Spam
+###Era of Spam
 ----------
 
 Spam on the frontpage was constant by this era on YWOT, and the amount would only increase as time passed. As scripts became more widespread whether through distribution or from creation, spamming groups formed which often spammed ywot pages by request. [Deathcloud](http://www.yourworldoftext.com/deathcloud) was a notable one that then became the target of spam because of the wide range of its attacks.
@@ -43,13 +43,13 @@ Deathcloud launched spamming attacks on various pages, asides from the frontpage
 
 ![The fail whale](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/failwhale.jpg)
 
-`The Fail Whale, an icon of the Deathcloud War`
+*The Fail Whale, an icon of the Deathcloud War*
 
 ####A Silent Kindom
 
 ![An old image of SNC](http://i.imgur.com/WSAyZlp.png)
 
-`Silent Nation Clan's Homepage.` http://yourworldoftext.com/~sedrys/silentnationclan
+*Silent Nation Clan's [Homepage](http://yourworldoftext.com/~sedrys/silentnationclan)*
 
 Though organizations became involved in spamming, so did many individuals. Users included Yen, BlackInk, and Whitemouse, who eventually formed alliances, complicating the playing field. YWOT eventually became divided into two sides, people who spammed and then opposers to the spam. It wasn't until late January that the tensions finally eased. Much of the impact of the spam wars became hidden in the background. Spam, however, would continue to impact YWOT for a very long time. Indeed the spam wars were a period of intense scripted warfare.
 
@@ -61,7 +61,7 @@ On the 24th of February, 2013 the owner box usually seen in the spawn point of t
 
 ![no owner box](http://i.imgur.com/8a3r9UM.png)
 
-`Andrew messes with people while the owner box is gone`
+*Andrew messes with people while the owner box is gone*
 
 The owner box would eventually return, though not until the 15th of March. The box would eventually be removed permanently.
 
