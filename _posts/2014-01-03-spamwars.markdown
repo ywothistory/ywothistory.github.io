@@ -18,10 +18,6 @@ This era is well remembered for its spam, but also for its art and culture. The 
 
 The era of spam came to an end after most famous spammers departed the site and the ~user update was rolled out.
 
-Important events include:
-
-- The No Owner-Box Period
-- The Make it Member Campaigns
 - Paradise and Nirvahna
 
 ###Era of Spam
@@ -57,6 +53,18 @@ Deathcloud launched spamming attacks on various pages, asides from the frontpage
 
 Though organizations became involved in spamming, so did many individuals. Users included Yen, BlackInk, and Whitemouse, who eventually formed alliances, complicating the playing field. YWOT eventually became divided into two sides, people who spammed and then opposers to the spam. It wasn't until late January that the tensions finally eased. Much of the impact of the spam wars became hidden in the background. Spam, however, would continue to impact YWOT for a very long time. Indeed the spam wars were a period of intense scripted warfare.
 
+####A Slight Panic
+
+*Main Article: [The Panic of Feb. 24](http://ywothistory.tk/event/panicoffeb24.html)*
+
+On the 24th of February, 2013 the owner box usually seen in the spawn point of the front page was removed. The event occured around 8:00 GMT that day, and thereafter YWOT was encapsulated by panic. There was a considerable amount of chaos, confusion, and spamming before things settled down the next day
+
+![no owner box](http://i.imgur.com/8a3r9UM.png)
+
+`Andrew messes with people while the owner box is gone`
+
+The owner box would eventually return, though not until the 15th of March. The box would eventually be removed permanently.
+
 ###Era of Change
 -----------------
 
@@ -74,7 +82,9 @@ Randomguy_ also created a page during this time called [/YwotForProgress](http:/
 
 Proposals included returning the front page to the Lockdown format and allowing members special privileges.
 
-Still, some people believed spam was a part of YWOT and not a problem. Spam had only become a recent problem due to the mass distribution of scripts, and some believed that should be fine.
+Some could say the campaign caused more harm than good. Ultimately, no changes relating to this were passed and the only way of advertisement used was through spamming or repeatedly posting on the front page.
+
+Additionally, some people believed spam was a part of YWOT and not a problem. Spam had only become a recent problem due to the mass distribution of scripts. And besides, spamming and erasing was part of the fun of being on the site.
 
 ![Spam showing dislike of Makeitmember](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/makeitmemberspam.jpg)
 
