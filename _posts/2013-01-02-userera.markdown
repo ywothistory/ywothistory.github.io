@@ -6,8 +6,6 @@ categories: timeline
 
 ![Picture of ~Help](http://i.imgur.com/OajHqiJ.png)
 
-`An example of how YWOT users took advantage of the update`
-
 On July 8th 2013, the YWOT URL system was changed in an update, among many things. During this era, YWOT was updated, spam continued to be a problem, and scripts were leaked by a user of the name Lol007.
 
 ###For Better or worse
@@ -24,7 +22,25 @@ Spam was, and continues to be, a major problem for YWOT. Originally the site was
 
 ###Script Leaks
 
-Later on, the distribution of scripts led to lag and confusion on the frontpage, ending in a long fought stalemate between the script leaker and opposers.
+*Main Article: [The Lol007 Script Leaks](http://ywothistory.tk/event/lol007scriptleaks.html)*
+
+On The 27th of July, 2013, a new user by the name of Lol007 had arrived on YWOT. His intentions were simple: he wanted to spread spam and wreak havoc. Using scripts that he acquired, he managed to spam the YWOT frontpage. He then created many of his own pages allowing for leaking of less powerful but still harmful scripts.
+
+The elite YWOT community, in particular users like InfraRaven and colibri, were outraged. Poopman created a page called [/fuck007](http://yourworldoftext.com/fuck007) which expressed anger. For a long time after the spamming occured, spam was always blamed on Lol007, whether he was the cause or not.
+
+Many soon compared Lol007 to Hitler. In fact, someone even made a page [/~Hitler](http://yourworldoftext.com/~hitler). He was also called "lol" or "L7".
+
+![a picture](http://i.imgur.com/g0eeTb4.png)
+
+InfraRaven organized a DDoS attack on Lol007's page [/~Lol007](http://yourworldoftext.com/~Lol007), and spammed his other pages like /~YWOT_scripts and /~YWOTscriptrequest. Bitter tensions held for months. Below is an image of the DDos attack.
+
+~[another pic](http://i.imgur.com/7bLIwh3.png)
+
+After many long months, tensions finally eased. Regardless, the damage had already been done. Many pages "locked up" to prevent spam, and all of Lol007's pages had been spammed. He became a well hated figure on YWOT, and impacts were huge.
+
+####The Lol007 Paranoia of late 2013
+
+Lol007 had become such a prevalent name that almost all new users to the YWOT community were presumed to be and alternate account of his or an account for spamming. This resulted in the cold shouldering of many new users, regardless of what they had to offer.
 
 ###~index is Updated
 
