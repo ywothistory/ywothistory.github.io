@@ -10,17 +10,10 @@ Soon after the [Vsauce Explosion](http://ywothistory.tk/event/vsauceexplosion), 
 
 Mothereffers was a serious spamming group on YWOT who were quite notorious for their scope of spam. They managed to go under the radar until they were told by user Fenneci that he would report them to the FBI, for harassing a 12 year old. Although such a report was unlikely, and had it happened, unlikely that the FBI would do anything, the threats were taken seriously and the group's leader shut down their page. This is proabably the most serious thing to have happened on YWOT to date.
 
-So indeed Mothereffers was eventually shut down by Andrew. Regardless, the era of spam had begun. Spam became so bad that on some days it was impossible to talk. Blackouts, spamming of unicode black bars en masse, affected the frontpage every couple of days. Erasing was also common. Sometimes people would turn script against script to produce a checkerboard-like pattern (because scripts spammed "by tile")
-
 This era is well remembered for its spam, but also for its art and culture. The influence of the art and culture of YWOT grew, probably the fastest in all its history. A notable monument was the YWOT "Ladder to Heaven", as well as the ascii city located near west of the center area which was in the end destroyed by newcomers to the site.
-
-The era of spam came to an end after most famous spammers departed the site and the ~user update was rolled out.
 
 ###Era of Spam
 ----------
-
-Spam on the frontpage was constant by this era on YWOT, and the amount would only increase as time passed. As scripts which produced the spam became more widespread whether through distribution or from creation, spamming groups formed which often spammed ywot pages by request. [Deathcloud](http://www.yourworldoftext.com/deathcloud) was a notable one that then became the target of spam because of the wide range of its attacks.
-
 ####The First YWOT Lockdown
 
 ![An image of the front page during a lockdown](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
@@ -29,9 +22,11 @@ The first lockdown of the frontpage occured on December 21st. Following large qu
 
 ####The Deathcloud War (Jan. 2013)
 
+Spam on the frontpage was constant by this era on YWOT, and the amount would only increase as time passed. As scripts which produced the spam became more widespread whether through distribution or from creation, spamming groups formed which often spammed ywot pages by request. [Deathcloud](http://www.yourworldoftext.com/deathcloud) was a notable one that then became the target of spam because of the wide range of its attacks.
+
 ![The Fail Whale, an icon of the Deathcloud War](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/failwhale.jpg)
 
-Deathcloud launched spamming attacks on various pages, asides from the frontpage. Due to its attack on [Silent Nation Clan](http://www.yourworldoftext.com/~sedrys/SilentNationClan), they became an enemy of InfraRaven, who spammed them on the behalf of JA and produced /DeathCloudFails. The fail whale (image below) became an icon in the Deathcloud War.
+Deathcloud launched spamming attacks on various pages, asides from the frontpage. Due to its attack on [Silent Nation Clan](http://www.yourworldoftext.com/~sedrys/SilentNationClan), they became an enemy of InfraRaven, who spammed them on the behalf of JA and produced /DeathCloudFails. The fail whale became an icon in the Deathcloud War.
 
 ####A Silent Kindom
 
@@ -64,9 +59,7 @@ On February 15th, 2013, BlackInk made a page announcing his departure. His reaso
 
 Following the events leading up to and after the lockdown, JA also expressed his support for a members-only front page. His main page he created was [/MAKEITMEMBER](http://yourworldoftext.com/makeitmember).
 
-Randomguy_ also created a page during this time called [/YwotForProgress](http://yourworldoftext.com/ywotforprogress). On it he likened Your World Of Text to a society with limited resources. Order was necessary to keep things clean.
-
-Proposals included returning the front page to the Lockdown format and allowing members special privileges.
+Randomguy_ also created a page during this time called [/YwotForProgress](http://yourworldoftext.com/ywotforprogress).
 
 Some could say the campaign caused more harm than good. Ultimately, no changes relating to this were passed and the only way of advertisement used was through spamming or repeatedly posting on the front page.
 
@@ -75,7 +68,11 @@ Some could say the campaign caused more harm than good. Ultimately, no changes r
 Additionally, some people believed spam was a part of YWOT and not a problem. Spam had only become a recent problem due to the mass distribution of scripts. And besides, spamming and erasing was part of the fun of being on the site.
 
 ###JA Departs YWOT
-After these events, JA departed, on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Though the results of the spam war was seen as a stalemate, spam would continue to overtake the website, in all its forms. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world ~index.
+However, after these events, JA departed on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Though the results of the spam war was seen as a stalemate, spam would continue to overtake the website, in all its forms. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world ~index.
+
+![/YwotWiki changes its color scheme to honour JA's departure](http://i.imgur.com/smyaupL.png)
+
+The era of spam came to an end after most famous spammers departed the site and the ~user update was rolled out.
 
 ##Videos
 
