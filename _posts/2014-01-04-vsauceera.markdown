@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vsauce draws in new members
+title: Vsauce Era
 categories: timeline
 ---
 
