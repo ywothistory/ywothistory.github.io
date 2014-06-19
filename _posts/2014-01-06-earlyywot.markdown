@@ -4,9 +4,7 @@ title: Early YWOT
 categories: timeline
 ---
 
-From the time from September 23rd, 2009 to when all standard features of ywot rolled out in February 9th, 2010, the site gained momentum in its growth. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
-
-Later, in the 2nd half of this era lasting from the same date to March 29th, 2011 when the Vsauce video came out, this era for YWOT was a sign of things to come.
+After beta testing had finished, the site gained momentum in its growth. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
 
 Many people arrived here from 4chan, contributing to the site. One of the ways was through javascript.
 
