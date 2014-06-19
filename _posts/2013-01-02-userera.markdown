@@ -22,8 +22,6 @@ Spam was, and continues to be, a major problem for YWOT. Originally the site was
 
 ###Script Leaks
 
-*Main Article: [The Lol007 Script Leaks](http://ywothistory.tk/event/lol007scriptleaks.html)*
-
 On The 27th of July, 2013, a new user by the name of Lol007 had arrived on YWOT. His intentions were simple: he wanted to spread spam and wreak havoc. Using scripts that he acquired, he managed to spam the YWOT frontpage. He then created many of his own pages allowing for leaking of less powerful but still harmful scripts.
 
 The elite YWOT community, in particular users like InfraRaven and colibri, were outraged. Poopman created a page called [/fuck007](http://yourworldoftext.com/fuck007) which expressed anger. For a long time after the spamming occured, spam was always blamed on Lol007, whether he was the cause or not.
