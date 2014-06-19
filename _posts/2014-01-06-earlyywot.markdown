@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YWOT is launched!
+title: Early YWOT
 categories: timeline
 ---
 
@@ -19,7 +19,7 @@ Very early versions of pasting scripts exist, like the YWMS, or YourWorld Mass S
 
 The following era, the Vsauce Era, yielded an entirely new set of scripts and new ideas produced by the visitors from Vsauce. Many things would be as a result of the rapid growth in membership.
 
-###Events by Twitter Feed
+###List of Events
 
 - September 23rd 2009: All beta worlds are moved to [yourworldoftext.com/beta/](http://yourworldoftext.com/beta)
 - October 30th 2009: Homepage is moved to [yourworldoftext.com/frontpage/1](http://yourworldoftext.com/frontpage/1)
@@ -33,5 +33,3 @@ The following era, the Vsauce Era, yielded an entirely new set of scripts and ne
 - December 8th 2009: "Link to coordinates" added
 - December 11th 2009: Default setting for claimed /worlds is now set to public viewing
 - February 9th 2010: "Create link to URL" added
-
-### Further Reading
