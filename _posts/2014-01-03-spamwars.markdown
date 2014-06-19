@@ -23,15 +23,11 @@ Spam on the frontpage was constant by this era on YWOT, and the amount would onl
 
 ####The First YWOT Lockdown
 
-*Main Article: [The Christmas 2012 Lockdown](http://ywothistory.tk/event/christmas2012lockdown.html)*
-
 ![An image of the front page during a lockdown](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/ywotlockdown.jpg)
 
 The first lockdown of the frontpage occured on December 21st. Following large quantities of spam Andrew responded by removing nearly all public area on the frontpage, which prompted a largely negative reaction. As the lockdown occured on the rumored date of the Mayan apocalypse it was given the name the [Apocalypse](http://www.yourworldoftext.com/11_12_13)/Rapture. In addition it was giving the name the holiday lockdown because of its occurence near the holidays. The lockdown was ended on the 23rd of December.
 
 ####The Deathcloud War (Jan. 2013)
-
-*Main Article: [The Deathcloud War](http://ywothistory.tk/event/deathcloudwar.html)*
 
 ![The Fail Whale, an icon of the Deathcloud War](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/failwhale.jpg)
 
@@ -47,13 +43,9 @@ Though organizations became involved in spamming, so did many individuals. Users
 
 ####Paradise Lost
 
-*Main Article: [The Destruction of Paradise and Nirvana](http://ywothistory.tk/event/paradisenirvana.html)*
-
 Spam, during this era, even affected YWOT's most distant and famous monuments. At Y=1000 laid a destination with the given name "Paradise", and at Y=10,000 was Nirvana. Both were destroyed when a large number of 4chan users invaded the site January, putting an end to the cities constructed there.
 
 ####A Slight Panic
-
-*Main Article: [The Panic of Feb. 24](http://ywothistory.tk/event/panicoffeb24.html)*
 
 On the 24th of February, 2013 the owner box usually seen in the spawn point of the front page was removed. The event occured around 8:00 GMT that day, and thereafter YWOT was encapsulated by panic. There was a considerable amount of chaos, confusion, and spamming before things settled down the next day
 
@@ -69,8 +61,6 @@ The owner box would eventually return, though not until the 15th of March. The b
 On February 15th, 2013, BlackInk made a page announcing his departure. His reasons for leaving were that YWOT had become too script ridden and full of hatred. This was quite evident as during the Spam Wars things had gone overboard. On his page he expressed support for a member-only YWOT, stating "It was better that way in my opinion, because it balanced the power of the people who choose to attend".
 
 ###Support Grows for A Member-Only YWOT
-
-*Main Article: [The Make It Member Campaigns](http://ywothistory.tk/event/makeitmembercampaigns.html)*
 
 Following the events leading up to and after the lockdown, JA also expressed his support for a members-only front page. His main page he created was [/MAKEITMEMBER](http://yourworldoftext.com/makeitmember).
 
