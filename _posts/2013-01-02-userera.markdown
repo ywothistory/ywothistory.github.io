@@ -4,55 +4,48 @@ title: The User Era
 categories: timeline
 ---
 
-![Image of an updated ~index](http://i.imgur.com/bFOFgcm.png)
+![Picture of ~Help](http://i.imgur.com/OajHqiJ.png)
 
-The event that defined this era was the update of YWOT's [URL](http://www.webopedia.com/TERM/U/URL.html) system. While the update occured on July 8th, 2013, the impacts on the YWOT infrastructure were lasting.
+On July 8th 2013, the YWOT URL system was changed in an update, among many things. During this era, YWOT was updated, spam continued to be a problem, and scripts were leaked by a user of the name Lol007.
 
-##The Update
+###For Better or worse
 
-![The event on YWOT's twitter feed](http://i.imgur.com/naquX3o.png)
+This update, unlike previous updates, featured a change to YWOT's URL naming system. All worlds would now have the names of their creators visible.
 
-A change to the URL system was one of the feature of this update. Before, all the owners' names were invisible. If you claimed a world someone else had, or if one was too old, the server would refuse you. Now, with the new world cataloguing method, anyone could claim any world. It was a surefire way of ending the debates between who would claim each world.
-In addition to this, the world's /name was visible on each browser tab, and you could directly access a world from the options page because it would be linked. 
+The update was taken controversially, with opponents stating it would cause YWOT to be too complicated. Andrew however pushed for the update to be released, regardless. The official release date was on July 8th, 2013. Development was assisted by "Employee of the Month", Colibri.
 
-The update was not without its downfalls however. Despite the positive change it brought to the YWOT community, it complicated the ability to access worlds. People's confidentiality was also taken away, with the revealed usernames. A large group of people were against this update, probably a majority. One particular outstanding user was InfraRaven, who opposed all change.
+InfraRaven, though an opponent of this update, created ~index, which would be the predecessor to /Comprehensive, YWOT’s biggest world cataloguing project.
 
-The update, as you know, was passed anyways, and it reads on [/~Badr](http://www.yourworldoftext.com/~Badr) that "If any of you don't like any of my updates then leave my website!". The changes are here to stay.
+###Spam Still a Problem
 
-##Spamming continues
+Spam was, and continues to be, a major problem for YWOT. Originally the site was intended for conversation which is oftentimes not possible due to spam. Causes include easy access to spamming scripts and an inability to cooperate on the spammer's part.
 
-![Some spam and racism](http://i.imgur.com/BKePJQV.png)
+###Script Leaks
 
-During this era spam continued to plague YWOT, if not reach a climax. Script distribution had left its mark, and scripters were common on the YWOT scene. Spamming individual characters became uncommon, as people were often confronted by erasers or realized they did not have much power. Andrew has done little as of yet to alleviate the spam in general.
+On The 27th of July, 2013, a new user by the name of Lol007 had arrived on YWOT. His intentions were simple: he wanted to spread spam and wreak havoc. Using scripts that he acquired, he managed to spam the YWOT frontpage. He then created many of his own pages allowing for leaking of less powerful but still harmful scripts.
 
-##Lol007, Newcomer
+The elite YWOT community, in particular users like InfraRaven and colibri, were outraged. Poopman created a page called [/fuck007](http://yourworldoftext.com/fuck007) which expressed anger. For a long time after the spamming occured, spam was always blamed on Lol007, whether he was the cause or not.
 
-Lol007 was quite like any other person to frequent YWOT, a newcomer with good intentions. As can be seen on [/coder_list](http://www.yourworldoftext.com/coder_list) he is written down as a "helpful artist". For whatever reason, Lol007, now also known as Hitler for his destructive reign, turned to the "dark side".
-
-Around the 27th of July Lol007 began his attack. Using scripts that he acquired, he managed to spam the YWOT frontpage. He then created many of his own pages allowing for leaking of less powerful but still harmful scripts. Such pages include [/~YWOT_scripts](http://www.yourworldoftext.com/~YWOT_scripts) and [/~Scriptlist](http://yourworldoftext.com/~Scriptlist).
-
-##Lol007's "Rise to Power"
-
-After these events the elite YWOT community, in particular users like InfraRaven and Colibri, were outraged. Poopman created a page called [/fuck007](http://yourworldoftext.com/fuck007) which expressed blatant anger. For a long time after the spamming occured, spam was always blamed on Lol007, whether he was the cause or not. All antispam members of YWOT do occaisionally spam YWOT, however, that is something you should know.
-
-Many soon compared Lol007 to Hitler. In fact, a member even made a page [/~Hitler](http://yourworldoftext.com/~hitler). Lol007 was also called "lol" or "L7".
+Many soon compared Lol007 to Hitler. In fact, someone even made a page [/~Hitler](http://yourworldoftext.com/~hitler). He was also called "lol" or "L7".
 
 ![a picture](http://i.imgur.com/g0eeTb4.png)
 
-InfraRaven organized a [DDoS](http://en.wikipedia.org/wiki/Denial-of-service_attack) attack on Lol007's page [/~Lol007](http://yourworldoftext.com/~Lol007), and spammed his other pages with "faggot" and other things. The DDoS included that the page was infected by a virus and that people should leave, a way to prevent script acquisition. All in all, bitter tensions held for months.
+InfraRaven organized a DDoS attack on Lol007's page [/~Lol007](http://yourworldoftext.com/~Lol007), and spammed his other pages like /~YWOT_scripts and /~YWOTscriptrequest. Bitter tensions held for months. Below is an image of the DDos attack.
 
 ![another pic](http://i.imgur.com/7bLIwh3.png)
 
-After many long months, tensions finally eased. Regardless, the damage had already been done. Many pages "locked up" to prevent spam, and all of Lol007's pages had been spammed. He became a well hated figure on YWOT, a "household name" if you will.
+After many long months, tensions finally eased. Regardless, the damage had already been done. Many pages "locked up" to prevent spam, and all of Lol007's pages had been spammed. He became a well hated figure on YWOT, and impacts were huge.
 
-####The YWOT Community strengthens
+####The Lol007 Paranoia of late 2013
 
-At one point a list of users were created on a page, accusing all newcomers of being Lol007's alternate accounts. This would be unlikely, but some of the accused included [bluekrill](http://www.yourworldoftext.com/~bluekrill), [ItzKittiez](http://www.yourworldoftext.com/~ItzKittiez) and [DanielDanielOk](http://www.yourworldoftext.com/~DanielDanielOk]. None of the accused were actually alternate accounts.
+Lol007 had become such a prevalent name that almost all new users to the YWOT community were presumed to be and alternate account of his or an account for spamming. This resulted in the cold shouldering of many new users, regardless of what they had to offer.
 
-The YWOT community hub, [~index](http://www.yourworldoftext.com/~index) however cold-shouldered many of the new users. Some were discouraged and left, although it is largely in part to Daniel's efforts that ~index is the way it is today.
+###~index is Updated
 
-Overall from the ashes of this battle a stronger YWOT community arose, one more opposed to spam and poor script usage. The brief paranoia was surpassed by the progress made by the community thereafter.
+Index, formerly /comprehensive, for a long amount of time had difficulty adapting to the new URL system. Finally, as a means of simplifying things, Randomguy_ enacted the sorting by username the page needed. In addition the page's layout was also simplified and cleaned. This update was referred to as "Index 2.0"
 
-##~index is Founded
+![new index](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/newindex.jpg)
 
-Prior to the Lol007 mayhem, InfraRaven had also founded ~index. It was to be the predecessor to [/comprehensive](http://www.yourworldoftext.com/~spacenut/comprehensive), and a hopeful move was made in an attempt to revitalize Comprehensive's members. DanielDanielOk was a huge help in ~index's earlier times, 
+Afterwards ~index was updated multiple times. Finally a cleaner design was settled upon.
+
+![another picture of index](http://i.imgur.com/bFOFgcm.png)
