@@ -6,5 +6,6 @@ categories: event
 
 ![The Christmas 2012 Lockdown](http://i.imgur.com/hfI2cM5.png)
 
-The *Christmas 2012 Lockdown*, aka the *Holiday Lockdown* was an admin influenced major event starting on Dec. 21 2012 and ending a short time thereafter. Because of its proximity to the supposed date of the [Mayan Apocalypse](http://news.nationalgeographic.com/news/2011/12/111220-end-of-world-2012-maya-calendar-explained-ancient-science/) it has also been called the *Apocalypse Lockdown*.
+The Christmas 2012 Lockdown, a.k.a. the Holiday Lockdown or Apocalypse Lockdown was a transformation of the front page to member-only for a short time, mostly as a means to prevent spam. As can be seen today this was mostly unsuccessful as spam is still commonplace.
 
+The lockdown occured during the 21st of December 2012, though its end date is not known.
