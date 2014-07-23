@@ -6,7 +6,7 @@ categories: event
 
 ![current DC image](http://i.imgur.com/ZbGp8vF.png)
 
-Deathcloud was one of the more memorable spamming groups during the Spam Wars, being at one point the most powerful one on the website, comparable to Mothereffers. They were a gang of spammers comprised of [The_Russian](http://www.yourworldoftext.com/~The_Russian), [DemonicKings](http://www.yourworldoftext.com/DemonicKings), gingerpower, and one unknown member. They managed to get away with spamming various pages before the group dismantled. The_Russian continues to spam YWOT on his own to this day.
+Deathcloud was one of the more memorable spamming groups which existed during the Spam Wars, being at one point the most powerful one on the website, comparable to Mothereffers. They were a gang of spammers comprised of [The_Russian](http://www.yourworldoftext.com/~The_Russian), [DemonicKings](http://www.yourworldoftext.com/DemonicKings), GingerPower, and one unknown member. They managed to get away with spamming various pages before the group dismantled. The_Russian continues to spam YWOT on his own to this day.
 
 The Deathcloud Spammings occured during January 2013, when various pages and the front page were spammed by Deathcloud.
 
