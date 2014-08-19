@@ -4,7 +4,7 @@ title: The User Era
 categories: timeline
 ---
 
-![Picture of ~Help](http://i.imgur.com/OajHqiJ.png)
+![Picture of ~Help](https://i.imgur.com/OajHqiJ.png)
 
 On July 8th 2013, the YWOT URL system was changed in an update, among many things. During this era, YWOT was updated, spam continued to be a problem, and scripts were leaked by a user of the name Lol007.
 
@@ -30,11 +30,11 @@ The elite YWOT community, in particular users like InfraRaven and colibri, were 
 
 Many soon compared Lol007 to Hitler. In fact, someone even made a page [/~Hitler](http://yourworldoftext.com/~hitler). He was also called "lol" or "L7".
 
-![a picture](http://i.imgur.com/g0eeTb4.png)
+![a picture](https://i.imgur.com/g0eeTb4.png)
 
 InfraRaven organized a DDoS attack on Lol007's page [/~Lol007](http://yourworldoftext.com/~Lol007), and spammed his other pages like /~YWOT_scripts and /~YWOTscriptrequest. Bitter tensions held for months. Below is an image of the DDos attack.
 
-![another pic](http://i.imgur.com/7bLIwh3.png)
+![another pic](https://i.imgur.com/7bLIwh3.png)
 
 After many long months, tensions finally eased. Regardless, the damage had already been done. Many pages "locked up" to prevent spam, and all of Lol007's pages had been spammed. He became a well hated figure on YWOT, and impacts were huge.
 
@@ -50,8 +50,16 @@ Index, formerly /comprehensive, for a long amount of time had difficulty adaptin
 
 Afterwards ~index was updated multiple times. Finally a cleaner design was settled upon.
 
-![another picture of index](http://i.imgur.com/bFOFgcm.png)
+![another picture of index](https://i.imgur.com/bFOFgcm.png)
 
 And again...
 
-![another picture](http://i.imgur.com/rvFETRz.png)
+![another picture](https://i.imgur.com/rvFETRz.png)
+
+###Randomguy_'s Departure
+
+On the 19th of August 2014, roughly two years after joining, Randomguy_ announced his YWOT departure. Because he is the main writer of this history page, it is unsure if there will be any history below this section though if there is that's good. He announced his departure first on [https://this.spooks.me](https://this.spooks.me), a chatting site developed by InfraRaven. He still browses Spooks chat.
+
+![piciture](https://i.imgur.com/2UkPAjS.png)
+
+More information can be found on [/~randomguy_/Departure](http://www.yourworldoftext.com/~randomguy_/Departure).
