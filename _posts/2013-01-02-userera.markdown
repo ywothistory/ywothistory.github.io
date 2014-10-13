@@ -6,7 +6,7 @@ categories: timeline
 
 ![Picture of ~Help](https://i.imgur.com/OajHqiJ.png)
 
-On July 8th 2013, the YWOT URL system was changed in an update, among many things. During this era, YWOT was updated, spam continued to be a problem, and scripts were leaked by a user of the name Lol007.
+On July 8th 2013, the YWOT URL system was changed in an update, among many things. During this era, YWOT was updated, spam continued to be a problem, and scripts were leaked by a user of the name Lol007. In November the center box was removed permanently.
 
 ###For Better or worse
 
