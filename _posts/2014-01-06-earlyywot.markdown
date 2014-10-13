@@ -4,7 +4,7 @@ title: Early YWOT
 categories: timeline
 ---
 
-After beta testing had finished, the site gained momentum in its growth. Check out: [yourworldoftext.appspot.com](http://www.yourworldoftext.appspot.com).
+After beta testing had finished, the site gained momentum in its growth.
 
 Many people arrived here from 4chan, contributing to the site. One of the ways was through javascript.
 
@@ -13,9 +13,7 @@ Example of what a script can do! Coordinate and URL links are used for coloring.
 
 Among the members of YWOT was [Fang](http://www.yourworldoftext.com/~mcdowell/fang), his scripts could modify various elements of the site. It seems many scripts were in development by different people during this era, which would in the future possibly allow mass spamming...
 
-Very early versions of pasting scripts exist, like the YWMS, or YourWorld Mass Sender. Able to paste and send large amounts of text, it is almost like script now, it may be even more powerful. Check it out on [/~Lynxy/YWMS](http://www.yourworldoftext.com/~Lynxy/YWMS). DON'T DOWNLOAD IT; There is a chance it could track you.
-
-The following era, the Vsauce Era, yielded an entirely new set of scripts and new ideas produced by the visitors from Vsauce. Many things would be as a result of the rapid growth in membership.
+The following era, the Vsauce Era, yielded an entirely new set of scripts and new ideas produced by the visitors from Vsauce. Many events would transpire as a result of this rapid growth in membership.
 
 ###List of Events
 
