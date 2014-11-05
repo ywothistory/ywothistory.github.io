@@ -171,3 +171,24 @@ Randomguy_ returned briefly, working to bring the page ~index up to date. Its de
 A user by the name of ~wow99, an alternate alias of Lol007 spammed multiple pages on YWOT. His effects were minimal and quickly brushed off by the community.
 
 ![picture](http://i.gyazo.com/30b70e7b690541f83239b20f0a3d53a1.png)
+
+###Events
+
+- November 22nd 2011: "Unclaim" feature added.
+- December 14th 2011: New member features added!
+- April 16th 2012: Enable paste on claimed worlds.
+- April 19th 2012: Unique colours for backgrounds.
+- June 27th 2012: Full colour customization.
+- September 20th 2012: Andrew advertises Jotleaf on main page.
+- December 20th 2012: Fenneci to press charges against the troll group "Mothereffers"
+- December 21st 2012: Homepage becomes member-only for the holidays.
+- February 11th 2013: Colibri codes a way for members to make "Member-only" tiles.
+And thus gets rewarded as "Employee of the month!"
+- March 19th 2013: CodeFactor shows off his new scripting power.
+- July 8th 2013: All of this ~user shit is introduced.
+
+###Videos
+
+- Your World Of Text, Circa Feb. 2013: http://www.youtube.com/watch?v=hb3clAFuO0s
+- YWOT Circa Apr. 2013: http://www.youtube.com/watch?v=IMvaq64Kln8
+- YWOT On Vsauce: 10 AMAZING FLASH Games - DONG!: http://www.youtube.com/watch?v=isEwaLUiLP4&index=5&list=PL3B1492117E421483
