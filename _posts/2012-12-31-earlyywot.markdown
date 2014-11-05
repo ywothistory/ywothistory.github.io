@@ -31,7 +31,7 @@ The following era yielded an entirely new set of scripts and new ideas produced 
 
 ###The Vsauce Invasion
 
-The Vsauce Era started on the date of the Vsauce video's release when a DONGS video referencing YWOT was put out. After the video was released, membership skyrocketed. The Vsauce video, "[10 AMAZING Flash Games - DONG!](http://www.youtube.com/watch?v=isEwaLUiLP4)" gained over 300,000 views during its first three months on YouTube. In addition, the video made "VSAUCE!!!!" a YWOT meme.
+The Vsauce Era started on the date of the Vsauce video's release when a DONGS video referencing YWOT was put out. After the video was released, membership skyrocketed. The Vsauce video [10 AMAZING Flash Games - DONG!](http://www.youtube.com/watch?v=isEwaLUiLP4) gained over 300,000 views during its first three months on YouTube. In addition, the video made VSAUCE!!!! a YWOT meme.
 
 [![10 AMAZING Flash Games - DONG! Video image clip](/images/vsauce - dongs video 1.png)](http://www.youtube.com/watch?v=isEwaLUiLP4)
 
