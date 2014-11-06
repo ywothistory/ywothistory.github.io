@@ -4,8 +4,6 @@ title: The Deathcloud Spammings
 categories: event
 ---
 
-![current DC image](http://i.imgur.com/ZbGp8vF.png)
-
 Deathcloud was one of the more memorable spamming groups which existed during the Spam Wars, being at one point the most powerful one on the website, comparable to Mothereffers. They were a gang of spammers comprised of [The_Russian](http://www.yourworldoftext.com/~The_Russian), [DemonicKings](http://www.yourworldoftext.com/DemonicKings), GingerPower, and one unknown member. They managed to get away with spamming various pages before the group dismantled. The_Russian continues to spam YWOT on his own to this day.
 
 The Deathcloud Spammings occured during January 2013, when various pages and the front page were spammed by Deathcloud.
@@ -28,10 +26,6 @@ He repeatedly spammed "Fail Whales" onto Deathcloud's page. Chances are he direc
 
 Although Deathcloud was a relatively short lived spamming gang, the impacts are widespread and still exist today.
 
-![Picture of /DeathKingdom](http://i.imgur.com/oU2m7bo.png)
-
 DeathKingdom was created shortly thereafter, possibly as a successor to the somewhat successful Deathcloud. Both Deathcloud and DemonicKing's page were unclaimed, and can be viewed today.
-
-![Trollface on AtomixWorld](http://i.imgur.com/QYxTamr.png)
 
 The fight also produced memes such as the Trollface and the Fail Whale, though these are much forgotten by the newer members of YWOT. In total, the Deathcloud Spammings were a significant event that left its mark on YWOT for months to come.
