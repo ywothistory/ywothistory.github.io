@@ -4,7 +4,7 @@ title: Prehistorical YWOT
 categories: timeline
 ---
 
-History before the time of the Vsauce Invasion/Explosion is unclear and often ambiguous. YwotHistory staff izo and Randomguy_ have worked extensively to decode the happenings of past YWOT. There are many holes in the early history which are left to the reader to fill in.
+History before the time of the Vsauce Invasion/Explosion is unclear and often ambiguous. There are many holes in the early history which are left to the reader to fill in.
 
 ###YWOT Beta
 
