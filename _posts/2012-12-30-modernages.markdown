@@ -4,7 +4,7 @@ title: Modern YWOT
 categories: timeline
 ---
 
-This is where the bulk of recorded YWOT history begins, with various conflicts occuring as well as the founding of YWOT pages like /~YwotWiki, /comprehensive, et cetera. This encompasses the whole of YWOT history to the present time.
+This is where the bulk of recorded YWOT history begins, with various conflicts occuring as well as the founding of YWOT pages. This encompasses the whole of YWOT history to the present time.
 
 ##Spam Wars
 
@@ -34,8 +34,6 @@ Deathcloud launched spamming attacks on various pages, asides from the frontpage
 
 ####A Silent Kindom
 
-![An old image of SNC](http://i.imgur.com/WSAyZlp.png)
-
 *Silent Nation Clan's [Homepage](http://yourworldoftext.com/~sedrys/silentnationclan)*
 
 Though organizations became involved in spamming, so did many individuals. Users included Yen, BlackInk, and Whitemouse, who eventually formed alliances, complicating the playing field. YWOT eventually became divided into two sides, people who spammed and then opposers to the spam. It wasn't until late January that the tensions finally eased. Much of the impact of the spam wars became hidden in the background. Spam, however, would continue to impact YWOT for a very long time. Indeed the spam wars were a period of intense scripted warfare.
@@ -47,8 +45,6 @@ Spam, during this era, even affected YWOT's most distant and famous monuments. A
 ####A Slight Panic
 
 On the 24th of February, 2013 the owner box usually seen in the spawn point of the front page was removed. The event occured around 8:00 GMT that day, and thereafter YWOT was encapsulated by panic. There was a considerable amount of chaos, confusion, and spamming before things settled down the next day
-
-![Andrew messes with people while the owner box is gone](http://i.imgur.com/8a3r9UM.png)
 
 The owner box would eventually return, though not until the 15th of March. The box would eventually be removed permanently.
 
@@ -63,24 +59,16 @@ On February 15th, 2013, BlackInk made a page announcing his departure. His reaso
 
 Following the events leading up to and after the lockdown, JA also expressed his support for a members-only front page. His main page he created was [/MAKEITMEMBER](http://yourworldoftext.com/makeitmember).
 
-Randomguy_ also created a page during this time called [/YwotForProgress](http://yourworldoftext.com/ywotforprogress).
-
 Some could say the campaign caused more harm than good. Ultimately, no changes relating to this were passed and the only way of advertisement used was through spamming or repeatedly posting on the front page.
 
 ![Spam showing dislike of Makeitmember](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/makeitmemberspam.jpg)
 
-Additionally, some people believed spam was a part of YWOT and not a problem. Spam had only become a recent problem due to the mass distribution of scripts. And besides, spamming and erasing was part of the fun of being on the site.
-
 ###JA Departs YWOT
-However, after these events, JA departed on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Though the results of the spam war was seen as a stalemate, spam would continue to overtake the website, in all its forms. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world ~index.
-
-![/YwotWiki changes its color scheme to honour JA's departure](http://i.imgur.com/smyaupL.png)
+However, after these events, JA departed on the 22nd of April. To mark his departure, many YWOT worlds changed the colors to their pages, to match the color schemes on JA's page. Shortly thereafter, other members like AtLeastK left the site, leading to a long period of inactivity. Though the results of the spam war was seen as a stalemate, spam would continue to overtake the website, in all its forms. Eventually in the coming months there would be an update of the site's URL system and a move from /Comprehensive to the new world /~index.
 
 The era of spam came to an end after most famous spammers departed the site and the ~user update was rolled out.
 
 ##User Era
-
-![Picture of ~Help](https://i.imgur.com/OajHqiJ.png)
 
 On July 8th 2013, the YWOT URL system was changed in an update, among many things. During this era, YWOT was updated, spam continued to be a problem, and scripts were leaked by a user of the name Lol007. In November the center box was removed permanently.
 
@@ -90,7 +78,7 @@ This update, unlike previous updates, featured a change to YWOT's URL naming sys
 
 The update was taken controversially, with opponents stating it would cause YWOT to be too complicated. Andrew however pushed for the update to be released, regardless. The official release date was on July 8th, 2013. Development was assisted by "Employee of the Month", Colibri.
 
-InfraRaven, though an opponent of this update, created ~index, which would be the predecessor to /Comprehensive, YWOT’s biggest world cataloguing project.
+InfraRaven, though an opponent of this update, created ~index, which would be the predecessor to /Comprehensive, YWOT’s biggest world cataloging project.
 
 ###Spam Still a Problem
 
@@ -104,11 +92,7 @@ The elite YWOT community, in particular users like InfraRaven and colibri, were 
 
 Many soon compared Lol007 to Hitler. In fact, someone even made a page [/~Hitler](http://yourworldoftext.com/~hitler). He was also called "lol" or "L7".
 
-![a picture](https://i.imgur.com/g0eeTb4.png)
-
 The YWOT community organized a DDoS attack on Lol007's page [/~Lol007](http://yourworldoftext.com/~Lol007), and spammed his other pages like /~YWOT_scripts and /~YWOTscriptrequest. Bitter tensions held for months. Below is an image of the DDos attack.
-
-![another pic](https://i.imgur.com/7bLIwh3.png)
 
 After many long months, tensions finally eased. Regardless, the damage had already been done. Many pages "locked up" to prevent spam, and all of Lol007's pages had been spammed. He became a well hated figure on YWOT, and impacts were huge.
 
@@ -118,25 +102,9 @@ Lol007 had become such a prevalent name that almost all new users to the YWOT co
 
 ###~index is Updated
 
-Index, formerly /comprehensive, for a long amount of time had difficulty adapting to the new URL system. Finally, as a means of simplifying things, Randomguy_ enacted the sorting by username the page needed. In addition the page's layout was also simplified and cleaned. This update was referred to as "Index 2.0"
+Index, formerly /comprehensive, for a long amount of time had difficulty adapting to the new URL system. Finally, as a means of simplifying things, sorting by username was enacted. In addition the page's layout was also simplified and cleaned.
 
 ![new index](https://raw.github.com/ywothistory/ywothistory.github.io/master/images/newindex.jpg)
-
-Afterwards ~index was updated multiple times. Finally a cleaner design was settled upon.
-
-![another picture of index](https://i.imgur.com/bFOFgcm.png)
-
-And again...
-
-![another picture](https://i.imgur.com/rvFETRz.png)
-
-###Randomguy_ Departs
-
-On the 19th of August 2014 two years after joining, Randomguy_ announced his YWOT departure. He announced his departure first on [https://this.spooks.me](https://this.spooks.me), a chatting site developed by InfraRaven which he still browses.
-
-![piciture](https://i.imgur.com/2UkPAjS.png)
-
-More information can be found on [/~randomguy_/Departure](http://www.yourworldoftext.com/~randomguy_/Departure).
 
 ###YWOT settles into a creative deadzone
 
@@ -150,8 +118,6 @@ The dark ages were to follow.
 
 ![picture of /spam](http://i.gyazo.com/45623d0a4f4d405d83d4e94732466a0b.png)
 
-This image shows spam on the page /spam.
-
 ###YWOT dives head first into a vague future
 
 At this point in YWOT's long and winding history, events were piled behind it like dead bodies during the plague. Uncoincidentally, YWOT began to enter a Dark Age.
@@ -162,7 +128,7 @@ The website fell into a sort of anarchy, deeper than the one it had already exis
 
 ###~index is again updated
 
-Randomguy_ returned briefly, working to bring the page ~index up to date. Its design was updated for a final time, and /worlds were removed from its roster, dropping the world count from near 2000 to 1300.
+The page ~index was brought up to date. Its design was updated for a final time, and /worlds were removed from its roster, dropping the world count from near 2000 to 1300.
 
 ![index](http://i.gyazo.com/0ea03ab8ee45ed07ce9d81b8469d917f.png)
 
