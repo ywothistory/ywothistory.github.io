@@ -23,7 +23,7 @@ Updates for URL links, Coordinate linking, and adding color to user pages would 
 Many people arrived here from 4chan soon after beta, contributing to the site through javascript.
 
 [![Example of what a script can do! Coordinate and URL links are used for coloring.](/images/what_a_script_can_do.png)](http://www.youtube.com/watch?v=T0b7rU554S8)  
-`Example of what a script can do`
+Example of what a script can do
 
 [Fang](http://www.yourworldoftext.com/~mcdowell/fang) was a member of YWOT who made scripts modifying various elements in the site.
 
